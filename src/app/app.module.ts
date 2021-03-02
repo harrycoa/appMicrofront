@@ -30,4 +30,6 @@ export class AppModule {
  }
 
 
- /* ng add @andular/elements */
+ /* ng add @andular/elements
+ npm run weathercardbuild
+ /* "weathercardbuild": "ng build --prod --output-hashing=none && node ./mergelib.js" */*/

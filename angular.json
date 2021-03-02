@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "appMicrofront"
+    }
+  },
+  "defaultProject": "appMicrofront",
+  "cli": {
+    "analytics": false
+  }
 }
